@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Store.create(shoe: 'My first Post', jecket: 'This is really cool', hat: 'Me!',kid:'toys',food:'chinese')
+Store.create(shoe: 'lala', jecket: '0303', hat: 'Me!',kid:'toys',food:'chinese')
+Store.create(shoe: '123', jecket: '002', hat: 'Me!',kid:'toys',food:'chinese')
+
+puts "Data Seeded ~~~~yeah~~~~~"

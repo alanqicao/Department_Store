@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shoe: MyString
+  jecket: MyString
+  hat: MyString
+  kid: MyString
+  food: MyString
+
+two:
+  shoe: MyString
+  jecket: MyString
+  hat: MyString
+  kid: MyString
+  food: MyString
